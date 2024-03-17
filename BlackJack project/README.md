@@ -1,14 +1,7 @@
 # Welcome to BlackJack Project
 <div>
-.------.            _     _            _    _            _    
-|A_  _ |.          | |   | |          | |  (_)          | |   
-|( \/ ).-----.     | |__ | | __ _  ___| | ___  __ _  ___| | __
-| \  /|K /\  |     | '_ \| |/ _` |/ __| |/ / |/ _` |/ __| |/ /
-|  \/ | /  \ |     | |_) | | (_| | (__|   <| | (_| | (__|   < 
-`-----| \  / |     |_.__/|_|\__,_|\___|_|\_\ |\__,_|\___|_|\_\\
-      |  \/ K|                            _/ |                
-      `------'  
-      </div>        
+ <img src="C:\Users\lenovo\OneDrive\Desktop\GitDemo\Python\BlackJack project\blackjack.png">
+</div>        
 <br>
 <p><h3 style ="color:blue">#################### 😎 Our BlackJack House Rule #################### </h3></p>
 <br>
