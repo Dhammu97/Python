@@ -1,5 +1,5 @@
 # Higher_Lower Game
-<h3>#################### STEPS ####################<h3>
+<h3>#################### STEPS ####################</h3>
 <ul>
 <li>Generate a random account from the game data.</li>
 
