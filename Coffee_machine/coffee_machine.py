@@ -1,3 +1,5 @@
+
+from art import logo
 menu = {
     "espresso": {
         "ingredients": {
@@ -62,7 +64,8 @@ def make_a_coffee(choice, ingredients):
         resources[item] -= ingredients[item]
     print(f"Here is your {choice} ☕️. Enjoy!")
 
-
+print("Welcome to the Coffee Machine......")
+print(logo)
 is_on = True
 while is_on:
     user_choice = input("what would you like? (latte/espresso/cappuccino): ").lower()
